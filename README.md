@@ -50,21 +50,6 @@ The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle (htt
 - Scikit-Learn
 - Dython
 
-<<<<<<< HEAD
-## Installation and Usage
 
-1. **Set Up Conda Environment**:
-
-conda create -n myenv python=3.8
-
-conda activate myenv
-
-2. **Install Required Libraries**:
-- Navigate to the project directory.
-- Install libraries using:
-  
-  pip install -r requirements.txt
-=======
->>>>>>> a990f7c4de518b81448d9b3a2fd881fbe22c6888
 
 
