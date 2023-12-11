@@ -2,6 +2,7 @@
 
 ## Introduction
 This repository hosts a Machine Learning project focusing on the prediction of airline passengers' satisfaction levels.  This project leverages binary classification techniques in a structured and systematic approach.
+The entire repo is in English, but the code, as well as the accompanying reports are in Portuguese (PT).
 
 ## Project Structure
 The project is divided into two main sections:
