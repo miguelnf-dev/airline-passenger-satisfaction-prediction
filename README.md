@@ -9,11 +9,12 @@ The project is divided into two main sections:
 2. **Model Creation** - Focuses on training and testing machine learning models to predict satisfaction levels.
 
 ## Dataset
-The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle. It includes various attributes such as age, flight distance, and satisfaction levels of airline passengers.
+The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle (https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). It includes various attributes such as age, flight distance, and satisfaction levels of airline passengers.
 
 ## Notebooks
-- `EDA.ipynb`: Contains all EDA processes, including data visualization and preprocessing.
-- `Model_Creation.ipynb`: Hosts the model training and evaluation code.
+- `eda.ipynb`: Contains all EDA processes, including data visualization and preprocessing.
+- `additional_exploration.ipynb`: Contains extra analysis.
+- `model.ipynb`: Hosts multiple models training and evaluation code.
 
 ## Libraries Used
 - NumPy
@@ -23,17 +24,24 @@ The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle. It 
 - Scikit-Learn
 - Dython
 
-## Installation
-Details on setting up the environment and installing required libraries.
+## Installation and Usage
 
-## Usage
-Instructions on how to use the notebooks for EDA and model training.
+1. **Set Up Conda Environment**:
 
-## Contributing
-Guidelines for contributing to the project.
+conda create -n myenv python=3.8
+conda activate myenv
 
-## License
-Details about the project's license.
+2. **Install Required Libraries**:
+- Navigate to the project directory.
+- Install libraries using:
+  
+  pip install -r requirements.txt
 
-## Acknowledgments
-Credits to Miguel Fernandes and Stephanie Batista for the initial work and any other contributors to the project.
+
+3. **Running the Notebooks**:
+- Launch Jupyter:
+
+- Open and run `eda.ipynb`, `additional_exploration.ipynb`, and `model.ipynb` as desired.
+
+*Replace `myenv` with your environment name. Ensure Python version compatibility.*
+
