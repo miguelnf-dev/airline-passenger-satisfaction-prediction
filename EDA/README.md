@@ -8,6 +8,8 @@ This notebook, aims to systematically prepare the dataset for Supervised and Uns
 3. **Correlation and Visualization**: Detailed correlation analysis across attribute types and comprehensive visualization of data for deeper understanding.
 4. **Final Steps**: Verification of linear relationships between key variables and final data adjustments for model training.
 
+*For a more comprehensive understanding and to view detailed images and plots, it is recommended to refer to the accompanying report PDF along with the notebooks.*
+
 
 
 
