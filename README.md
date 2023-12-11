@@ -29,6 +29,7 @@ The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle (htt
 1. **Set Up Conda Environment**:
 
 conda create -n myenv python=3.8
+
 conda activate myenv
 
 2. **Install Required Libraries**:
