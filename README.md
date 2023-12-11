@@ -27,17 +27,20 @@ The dataset, named "Airline Passenger Satisfaction," is sourced from Kaggle (htt
 
 ## Installation and Usage
 
-1. **Set Up Conda Environment**:
+1. **Clone the Repository**:
+
+git clone https://github.com/miguelnf-dev/airline-passenger-satisfaction-prediction.git
+cd airline-passenger-satisfaction-prediction
+
+2. **Set Up Conda Environment**:
 
 conda create -n myenv python=3.8
+
 conda activate myenv
 
 2. **Install Required Libraries**:
-- Navigate to the project directory.
-- Install libraries using:
   
   pip install -r requirements.txt
-
 
 3. **Running the Notebooks**:
 - Launch Jupyter:
