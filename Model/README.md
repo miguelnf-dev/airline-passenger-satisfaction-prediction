@@ -16,4 +16,6 @@ This notebook presents a comprehensive approach to applying Supervised Learning 
 4. **Result Comparisons**: Compares the performance of different models using accuracy, precision, recall, and F1 scores.
 
 
+*For a more comprehensive understanding and to view detailed images and plots, it is recommended to refer to the accompanying report PDF along with the notebooks.*
+
 
